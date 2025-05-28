@@ -1,3 +1,3 @@
 # atividade-vm-windows-Leonardo
-<p>Leonardo Bueno da Silva</p>
+<h1>Leonardo Bueno da Silva</h1>
 <p>INFORMÁTICA 2</p>
