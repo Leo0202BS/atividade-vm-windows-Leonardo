@@ -1,8 +1,8 @@
 # atividade-vm-windows-Leonardo
 <h1>Leonardo Bueno da Silva</h1>
 <h1>Configuração da máquina virtual Prints 1-4
-  Print 01 aqui eu escolho o arquivo .iso do windows e coloco o nome na minha máquina virtual
-  Print 02 aqui eu escolho o nome do usuário e a senha da maquina virtual
+  Print 01 aqui eu escolho o arquivo .iso do windows e coloco o nome na minha máquina virtual<br>
+  Print 02 aqui eu escolho o nome do usuário e a senha da maquina virtual<br>
   Print 03 nessa etapa eu escolhi as configurações da máquina virtual, optei por 4 processadores, mesmo que não mude muito nessa instalação
   Print 04 escolhi o tamanho de armazenamento, optei por 20gb só para garantir que não haveria nenhum problema na instalação
  <h1> Configurando a instalação do Windows 5-7
